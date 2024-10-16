@@ -3,12 +3,12 @@ entries:
   tika-pipes-helm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-10-15T21:06:01.679903-03:00"
+    created: "2024-10-15T21:26:50.234353-03:00"
     description: A Helm chart for Kubernetes
-    digest: f717424c548ecbc7ee6aad1a794f675a5e12a9ce5234bffa3f98b17fee1d7572
+    digest: e6da7f5eee81b60ea37038c51219eb25f4fa6a2b5cafed5c2c014d6c79c8eeb8
     name: tika-pipes-helm
     type: application
     urls:
-    - https://raw.githubusercontent.com/atolio/tika-pipes-helm/gh-pages/dest/tika-pipes-helm-0.1.0.tgz
+    - https://artifacts-public.atolio.team/lumen/tika-pipes-helm/dest/tika-pipes-helm-0.1.0.tgz
     version: 0.1.0
-generated: "2024-10-15T21:06:01.679388-03:00"
+generated: "2024-10-15T21:26:50.233074-03:00"
